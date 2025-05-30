@@ -2,7 +2,7 @@
 
 A beginner-friendly **Patient Management System API** built using **FastAPI**. This project demonstrates how to perform full **CRUD operations** using RESTful endpoints and **Pydantic** for data validation.
 
-It also includes computed fields like **BMI** and **health verdict** based on patient data.
+It also includes computed fields like **BMI** and **health verdict** based on patient data
 
 ---
 
