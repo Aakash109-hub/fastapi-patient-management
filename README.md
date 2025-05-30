@@ -43,7 +43,7 @@ It also includes computed fields like **BMI** and **health verdict** based on pa
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/fastapi-patient-management.git
+git clone https://github.com/Aakash109-hub/fastapi-patient-management.git
 cd fastapi-patient-management
 ````
 
@@ -99,16 +99,3 @@ uvicorn main:app --reload
 ## 🙌 Acknowledgment
 
 This project is part of my journey to learn FastAPI and build real-world backend systems. Feedback and suggestions are welcome!
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-```
-
----
-
-Would you like me to help you create the GitHub repository and upload the code with this `README.md` as well? I can also provide a `.gitignore` and a proper project structure if needed.
-```
