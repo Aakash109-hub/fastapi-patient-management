@@ -98,4 +98,4 @@ uvicorn main:app --reload
 
 ## 🙌 Acknowledgment
 
-This project is part of my journey to learn FastAPI and build real-world backend systems. Feedback and suggestions are welcome
+This project is part of my journey to learn FastAPI and build real-world backend systems. Feedback and suggestions are welcome!
